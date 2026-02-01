@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("renomeador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e771fb9d69340a8eb0e59a8071194857e6b9041")]
 [assembly: System.Reflection.AssemblyProductAttribute("renomeador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("renomeador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
